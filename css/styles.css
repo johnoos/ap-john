@@ -39,16 +39,16 @@ body{margin:0;font-family:var(--body-font);background:var(--bg);color:var(--text
   justify-content: center;
   align-items: center;
   margin-top: 1rem;
-  font-size: 1.2rem; /* increased font size */
+  font-size: 1.1rem; /* increased font size */
 }
 
 .primary-nav a {
   color: white;
   text-decoration: none;
   padding: .4rem .8rem;
-  font-weight: 700;
+  font-weight: 600;
   border-radius: 6px;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 
 .primary-nav a:hover {
